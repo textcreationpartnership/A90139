@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oliver Cromwell the late great tirant and his life-guard: or The names of those who compiled and conspired with him all along in his horrid designs to bring this nation to vniversal ruine and confusion. Together with, a proper and peculiar character of every one of the persons, suitable to their barbarous actions, and the several inclinations of their most violent and greedy natures. As also the covenant which they took, and the eminent danger into which they had brought both state and church, and the miraculous mercies of God in delivering us from them by restoring unto us our most gracious King, whom God send long to reign over us.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90139</idno><idno type="EEBO-CITATION">99866921_168948</idno>
+  <idno type="VID">168948</idno>
+  <idno type="EEBO-PROQUEST">2264209793</idno>
+  
+            <idno type="STC">Wing O281</idno>
+            <idno type="STC">Thomason E1026_4</idno>
+            <idno type="STC">Thomason E1040_10</idno>
+            <idno type="STC">ESTC R207902</idno>
+            <idno type="PROQUEST">99866921</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866921e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168948)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1026[4], 154:E1040[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oliver Cromwell the late great tirant and his life-guard: or The names of those who compiled and conspired with him all along in his horrid designs to bring this nation to vniversal ruine and confusion. Together with, a proper and peculiar character of every one of the persons, suitable to their barbarous actions, and the several inclinations of their most violent and greedy natures. As also the covenant which they took, and the eminent danger into which they had brought both state and church, and the miraculous mercies of God in delivering us from them by restoring unto us our most gracious King, whom God send long to reign over us.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Coles dwelling in the Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy E.1026[4]: "May 31"; on Thomason copy E.1040[10]: "Aug 21".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168948:1"/>
+            <p>
+               <hi>OLIVER CROMWELL</hi> The Late Great TIRANT HIS Life-Guard: OR THE Names of those who complied and con<g ref="char:EOLhyphen"/>spired with him all along in his Horrid Designs to bring this NATION to <hi>Vniversal Ruine and Confusion.</hi>
+            </p>
+            <p>
+               <hi>Together with,</hi> A proper and peculiar Character of every one of the Persons, suitable to their barbarous Actions, and the several Inclinations of their most violent aod greedy Natures.</p>
+            <p>AS ALSO The Covenant which they took, and the most eminent Danger into which they had brought both <hi>State</hi> and <hi>Church,</hi> and the miraculous Mercies of God in delivering us from them by restoring unto us our most gracious KING, whom GOD send long to Reign over us.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Coles</hi> dwelling in the Old Baily, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168948:2"/>
+            <pb n="1" facs="tcp:168948:2"/>
+            <head>
+               <hi>Cromwells</hi> the late TYRANTS Life-Guard.</head>
+            <p>THe Guard being called according to custom, and every man being named by his Name, there began to arise some scruple concern<g ref="char:EOLhyphen"/>ing <hi>John Lambert;</hi> whether he ought to belong to the Life-guard, or not; in regard that the great Usurper some few years before his death, had not only dis<g ref="char:EOLhyphen"/>countenanced him, but took away his Commission from him; To which it was suddenly answered by <hi>Berkstead, Tichburn,</hi> and <hi>Ireton,</hi> that he ought to ap<g ref="char:EOLhyphen"/>pear above any other, and to be numbred in the chiefest rank amongst them; for as <hi>Lucifer</hi> was afraid when <hi>Bradshaw</hi> was dead, that he would have been too hard for him, and made himself President of Hell, so <hi>Cromwell</hi> alive stood in great fear of <hi>Lambert,</hi> not in vain believing that if he had been left alone, he took the right way to make himself Protector in his place; <hi>Lambert</hi> was therefore called in the first place, and that it might appear how well he did deserve it, he had this Character given him.</p>
+            <p>
+               <hi>John Lambert,</hi> the unstable heady, and ambitious that preferred his desire of greatness and supremacy
+<pb n="2" facs="tcp:168948:3"/>above reason, or conscience, that made Religion a slave and a prostitute to his own lust, that would put out and in again the eye of Justice as he himself plea<g ref="char:EOLhyphen"/>sed, and who in all parts was equal to his Mr. <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> if not before him, the excess of blood only ex<g ref="char:EOLhyphen"/>cepted, and who undoubted had had his place, if <hi>Cromwell</hi> had not forestalled him.</p>
+            <p>The next who was called, was <hi>John Berkstead,</hi> a man delivered up to cruelty, fraud, and avarice, and who seemed as much to be <hi>Cromwels</hi> Creature, as of his Life-guard.</p>
+            <p>The third was Sir <hi>Henry Vane,</hi> who had his ho<g ref="char:EOLhyphen"/>nesty by inheritance from his father, and the best part of his Religion from <hi>Rome.</hi>
+            </p>
+            <p>The next was <hi>Tho. Chaloner,</hi> a man of the same temper and Religion, witness Father <hi>Coe</hi> Confessor to the late Pope <hi>Ʋrban</hi> the 8th, and <hi>Clement</hi> the 7th. the Pope now living.</p>
+            <p>
+               <hi>Oliver St. John,</hi> who held counsell with <hi>Cromwell</hi> all night, and contrived all by day how to gratifie the Tyrant and raise himself by bringing this Nation to an universal ruine and confusion.</p>
+            <p>
+               <hi>Thomas Pride,</hi> heretofore a <hi>Dray-man,</hi> but he was not of <hi>Davids</hi> minde; for he forsook the sword to take the Sling, but <hi>Pride</hi> forsook the Sling to take the Sword.</p>
+            <p>
+               <hi>John Hewson</hi> the <hi>Cobler,</hi> who being made a Lord by the Tyrant, and meeting with his Corrival <hi>Pride, Pride</hi> in derision of his greatness, told him he saw a piece of <hi>Coblers</hi> Wax sticking to the Cape of his Scar<g ref="char:EOLhyphen"/>let Cloak, to whom <hi>Hewson</hi> presently replied, It was no matter, a handfull of Brewers grains would take it away at any time.</p>
+            <pb n="3" facs="tcp:168948:3"/>
+            <p>
+               <hi>Nicholas Love,</hi> who in hate to the King, and love to novelty, and avarice, swallowed down whole <hi>Bi<g ref="char:EOLhyphen"/>shopricks,</hi> and consented to the Kings Murder, being one of the wicked Judges of their high Court of Ju<g ref="char:EOLhyphen"/>stice.</p>
+            <p>Sir <hi>Michael Levesey,</hi> so little beholding unto <hi>Chri<g ref="char:EOLhyphen"/>stendom,</hi> that hardly any one in his Country of <hi>Kent,</hi> will afford him a good word.</p>
+            <p>
+               <hi>Robert T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ichburn,</hi> a man so delivered up to Faction, and of so obstinate a spirit against Order and true Piety, that he often muzzled the mouths of dying men, and most unchristianly silenced them by his barbarous authority in their last Confession and De<g ref="char:EOLhyphen"/>votions.</p>
+            <p>
+               <hi>Henry Ireton</hi> his brother in blood and mischief, and more neer in blood and cruelty of complexion to the Usurper himself then his own Sons were, whose Acts (as the Times then stood, and in comparison of these men) may be more dispensed with, as only bearing a rellish of original Sin.</p>
+            <p>
+               <hi>Christopher Pach,</hi> worse then the Dog in the <hi>Fable,</hi> who to gain the shadow lost the substance.</p>
+            <p>
+               <hi>Henry Martin,</hi> whose honesty you may finde in a Goat, whose Religion in a Weather-cock, whose con<g ref="char:EOLhyphen"/>science is like a Cork on the top of the Sea, and whose Fortunes like a Plummet, desperatly lost in the bot<g ref="char:EOLhyphen"/>tom of it.</p>
+            <p>
+               <hi>Charls Fleetwood,</hi> the Fiddle-saddle of the Times, the stirrup of his Rivals, the Indeed la of <hi>Reformation;</hi> a man, of the whining folly of whose spirit, the wis<g ref="char:EOLhyphen"/>dom of <hi>God</hi> made a great use, for the restoring of my Lord the King.</p>
+            <p>
+               <hi>Iohn Lisle,</hi> to the cruelty, the malice, and the subtle<g ref="char:EOLhyphen"/>ty
+<pb n="4" facs="tcp:168948:4"/>of whose Spirit, the Usurper in his most prodigi<g ref="char:EOLhyphen"/>ous exigencies and attempts, made always his constant addresser, as if he had contracted with the Devil for the tradition and monopoly of sin.</p>
+            <p>
+               <hi>Iohn Desbrough,</hi> mad with the height of his unex<g ref="char:EOLhyphen"/>pected Fortunes; a man always on the gallop, a poor mans Son on horse back, the most hasty and worst Counsellor, but the greatest pretender in nature.</p>
+            <p>Sir <hi>Iohn Danvers,</hi> an empty Tub, that makes the greatest sound; a boys gay bubble blown in the ayr, and broken; a true Courtier, that would fain seem something, when he is nothing, nay, one that is worse then nothing, being all over perfidious &amp; ungratefull.</p>
+            <p>
+               <hi>Miles Corbet,</hi> a godly proud man, one that believes that God is served with faction, noise, and hypocrisie, and accordingly doth serve him, and counteth any thing Religion, that tendeth to profit &amp; Innovation.</p>
+            <p>
+               <hi>Thomas Harrison,</hi> the great Professor of Purity and Parity, one who believes the greatest Order is to ob<g ref="char:EOLhyphen"/>serve no order, the resolved Leveller of Churches, States, and Kingdoms, and though like a Boat-man he looks not the same way he rows, yet the master of all irregularity, and Confusion.</p>
+            <p>
+               <hi>Edm. Ludlow,</hi> a man as all the rest, principled a<g ref="char:EOLhyphen"/>gainst <hi>Magistracy</hi> &amp; <hi>Ministry,</hi> a promoter of faction, &amp; protessed friend to the <hi>Anabaptists, Quakers,</hi> and <hi>An<g ref="char:EOLhyphen"/>tinomians.</hi>
+            </p>
+            <p>
+               <hi>Tho. Scot,</hi> This is a man of a delicate <hi>Atheism,</hi> that thinks he is able to circumvent the Devil, and hath wit enough to out reach Hell, the presence, and person of this man addeth much more estimation to this hor<g ref="char:EOLhyphen"/>rible Lifeguard of the Tyrant.</p>
+            <p>
+               <hi>Isaac Pennington</hi> that hath been a Traitor over and
+<pb n="5" facs="tcp:168948:4"/>over, and whose example at the beginning of the War was much prejudice to the City.</p>
+            <p>
+               <hi>Edm. Prideaux,</hi> who rode Post to be rich, and in his whole pra<g ref="char:EOLhyphen"/>ctise, since the Rebellion began, made use of one wickedness to another.</p>
+            <p>
+               <hi>John B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adshaw,</hi> a very <hi>Judas</hi> who for lucre and prefcrment sold his Master.</p>
+            <p>
+               <hi>Dan. Axtel,</hi> who came out of <hi>Ireland,</hi> having sowed the seeds of Rebellion and sedition there, to raise the fruits of it in <hi>England.</hi>
+            </p>
+            <p>Sir <hi>Arthur Hasterig,</hi> a blustring Northern wind; that would bear down all before it; one that will carry no coals, though he hath got many thousands by them; a bold Incendiary, and who to satisfie his violent apprehensions would be always in the Van of an insurrection, and mingle heaven and earth together.</p>
+            <p>
+               <hi>Luke Robinson,</hi> A Wolf in Sheeps cloathing, a pill of poyson cunningly gilded over; an underminer, and the supplanter of peace, <hi>Jacobs</hi> voice, but <hi>Esau</hi>'s hands.</p>
+            <p>
+               <hi>Edw. Whaley,</hi> he deserveth to be ranked amongst the foremost, for cruelty, craft, hipocrisie, &amp; ambition, and who, as all the rest, pretending Gods made it the only End of the War to enrich themselves.</p>
+            <p>
+               <hi>William Goffe,</hi> of the same temper and complexion altogether, who to secure his ill gotten goods would have it sealed with the most innocent blood of his own Soveraign.</p>
+            <p>
+               <hi>John Okey,</hi> A man who took up Arms, being weary of his low condition and carried on by Fortune, made plunder, In<g ref="char:EOLhyphen"/>novation, and prophaness his Religion.</p>
+            <p>
+               <hi>John Alured,</hi> a man of a turbulent Spirit, and apt to take fire like Gunpowder, but a cruel, and a close pursuer of whatsoever he intended to put in execution.</p>
+            <p>
+               <hi>Will. Smith,</hi> the very Minion of the late Usurper, &amp; apt to take any impression which he would stamp upon him, whether good, or bad, witness the death of <hi>John Syndercomb.</hi>
+            </p>
+            <p>Sir <hi>Hardress Waller,</hi> who beieg one of those appointed to con<g ref="char:EOLhyphen"/>fider of the time and place for the murdering of the late King, reported that the open street before <hi>Whiteball</hi> was the fittest place, whereupon it was ordered that he should be there executed between the hours of 10. in the morning, &amp; 5. in the afternoon.</p>
+            <pb facs="tcp:168948:5"/>
+            <p>
+               <hi>Thomas</hi> L. <hi>Gray</hi> of <hi>Groby,</hi> a man of as daring a Spirit as the Ty<g ref="char:EOLhyphen"/>rant himself, and who once demanded his Commission from them, but receiving a blow for a word, he always afterwards jum<g ref="char:EOLhyphen"/>ped into the same judgement, and designs with him.</p>
+            <p>
+               <hi>Owen Roe,</hi> who would venture through any thing that seemed to obstruct Democratical power, and having sealed and subscribed to the taking away of the life of our late King, made it afterwards his business to tread and to trample upon all Kingly power.</p>
+            <p>
+               <hi>Bulstrode Whitlock,</hi> that would perswade the Q. of <hi>Sweden</hi> how far the most unjust power of a Tyrannical Protector was to be preferred before the ancient and lawful Government of this Nation, under a most Heroick, Wise, and a most mercifull King.</p>
+            <p>
+               <hi>Will. Puresoy,</hi> that loved to go with the Gang, and being tyed up to the Army principles, believed the strongest way was the best way, of this sence were many more, whose names we want room in this place to comprehend.</p>
+            <p>But <hi>Hugh Peters</hi> Chaplain to the Tyrant, and his abhomined Life-guard, must not be forgotten, who instead of preaching the Gospel, made it his bu<g ref="char:EOLhyphen"/>siness to preach dissention, and himself confessing it, conspired with the late Tyrant to take away the Kings life, in a Meadow betwixt <hi>Ware</hi> &amp; <hi>Hodsden.</hi>
+            </p>
+            <p>
+               <hi>William Cutbert,</hi> one of the suborned Witnesses, that were produced and sworn in the pretended High Court of Justice, to give evidence against the Kings most sacred Majesty.</p>
+            <p>
+               <hi>Robert Lacie</hi> and <hi>Robert Roads</hi> of <hi>Nottinghamshire,</hi> with 16. more of that desperate and perjured Crew, whose fellows are hardly to be found in Hell, and who preferring the profit of unrighteous Mammon, before the honour and the interest of the Kings most sacred person, do most justly merit to have their names to hang on the files of eternal infamy.</p>
+            <p>These men having the Tyrant for their Leader, and being possessed with the spirit of avarice, and armed with the desperate affectuation of Innova<g ref="char:EOLhyphen"/>tion, and the malice of Ambition, at what thunder would they startle, at what uncontrouled Almightiness would this Fury turn dastard? These are they who made a Covenant with Hell, and into whom the Romish Emissa<g ref="char:EOLhyphen"/>ries, and Ingeneers of darkness had most subtly insinuated themselves, to divide and distract, to delude and destroy this Nation; and the powers and policies of Hell so far prevailed as to have laid the very necks of Magi<g ref="char:EOLhyphen"/>stracy &amp; Ministry upon the block of direful Anarchy, and Arbitrary Go<g ref="char:EOLhyphen"/>vernment; All foundation: both <hi>Religious</hi> &amp; <hi>Politick</hi> were put out of course, and threatned a sudden ruine both to <hi>Church</hi> and <hi>State:</hi> The Ordinances of <hi>God</hi> were flighted and opposed by strong, &amp; spetious pretences, &amp; strong delusions; the distempers both personal &amp; publick were growing so invete<g ref="char:EOLhyphen"/>rate so complicate &amp; so manifold, that our <hi>Physitians</hi> could do little else then pity &amp; bewail our expiring Liberties. What cause then have we now to ad<g ref="char:EOLhyphen"/>mire the miracalous patience, and bounty of our most gracious God, who hath made us the living monuments of so great a mercy? How are we to praise him that so great a change should be brought about with so little blood, and opposition? How are we bound to pray unto him for the long life of King <hi>Charls</hi> our dread Soveraign, that under his most happy reign our Land may flourish again with righteousness peace, and plenty, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
